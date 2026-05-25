@@ -1,4 +1,4 @@
-# AWS-Secure-Docker-Deployment-Private-EC2-ALB
+# Aws-Docker-Private-Ec2-Alb
 
 This project demonstrates a secure AWS architecture where a Dockerized web application is deployed on a private EC2 instance and exposed to the internet via an Application Load Balancer.
 
